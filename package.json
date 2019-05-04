@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "author": "Michael Allan",
-  "main": "webpack.config.dev.babel.js",
+  "main": "./dist/js/goldenlayout.js",
   "typings": "./index.d.ts",
   "directories": {
     "test": "test"
@@ -134,10 +134,9 @@
   },
   "npmFileMap": [
     {
-      "basePath": "/dist/",
+      "basePath": "/dist/js/",
       "files": [
-        "goldenlayout.js",
-        "goldenlayout.min.js"
+        "goldenlayout.js"
       ]
     },
     {
