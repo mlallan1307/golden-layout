@@ -1,6 +1,6 @@
 {
   "name": "golden-layout",
-  "version": "1.5.9",
+  "version": "1.5.10",
   "description": "A multi-screen javascript Layout manager \r https://golden-layout.com",
   "keywords": [
     "docker",
@@ -9,12 +9,12 @@
     "layout manager",
     "popouts"
   ],
-  "homepage": "https://github.com/deepstreamIO/golden-layout",
+  "homepage": "https://github.com/mlallan1307/golden-layout",
   "bugs": {
-    "url": "https://github.com/deepstreamIO/golden-layout/issues"
+    "url": "https://github.com/mlallan1307/golden-layout/issues"
   },
   "license": "MIT",
-  "author": "deepstreamHub GmbH",
+  "author": "Michael Allan",
   "main": "webpack.config.dev.babel.js",
   "typings": "./index.d.ts",
   "directories": {
